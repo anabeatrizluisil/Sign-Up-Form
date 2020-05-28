@@ -12,6 +12,10 @@
     color: hsl(228, 45%, 44%);
 }
 
+footer {
+    margin-top: 2%;
+}
+
 /* setting page */
 .site {
       display: flex;
